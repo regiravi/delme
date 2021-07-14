@@ -1,6 +1,6 @@
-# Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered by  Kleon, Austin
+## Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered by  Kleon, Austin
 
-## SHOW YOUR WORK! 10 WAYS TO SHARE YOUR CREATIVITY AND GET DISCOVERED
+#### Insights from the Book####
 
 CONTENTS A New Way of Operating
 
@@ -15,11 +15,9 @@ CONTENTS A New Way of Operating
 9. Sell Out.
 10. Stick Around.
 
-A New Way of Operating
-
 “Creativity is not a talent. It is a way of operating.” —John Cleese
 
-How do I get my stuff out there?
-How do I get noticed?
-How do I find an audience?
-How did you do it?
+- How do I get my stuff out there?
+- How do I get noticed?
+- How do I find an audience?
+- How did you do it?
