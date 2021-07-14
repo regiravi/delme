@@ -1,6 +1,6 @@
 ## Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered by  Kleon, Austin
 
-#### Insights from the Book####
+#### Insights from the Book ####
 
 CONTENTS A New Way of Operating
 
