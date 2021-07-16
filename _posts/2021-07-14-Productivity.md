@@ -1,4 +1,4 @@
-##### Productivity From Benjamin Franklin #####
+Productivity From Benjamin Franklin
 
 1. Keep it simple
    1. Time blocks for daily Routine
