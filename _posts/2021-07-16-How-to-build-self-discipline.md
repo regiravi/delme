@@ -1,5 +1,3 @@
-###### Art of Self Discipline ######
-
 - Starts with finding your Purpose
 - Self discipline is about finding compelling reasons to do something
 - Count on Yourself
